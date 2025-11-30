@@ -6,7 +6,7 @@ https://nbviewer.org/github/AmitC04/SIH-2025/blob/main/EDA__DATA.ipynb
 
 
 
-```markdown
+
 # 🌊 JAL RAKSHAK — Smart India Hackathon 2025  
 ### **AI-Powered Water Quality & Health Risk Analysis System**
 
@@ -26,11 +26,8 @@ This system performs:
 
 The goal is to support **government agencies, environmental bodies, health departments, and NGOs** in taking data-backed decisions for public health and water-safety improvement.
 
----
 
-## 📁 Project Structure  
-
-```
+## 📁 Project Structure
 
 ├── EDA__DATA.ipynb                       # Full EDA: cleaning, merging, visualizations
 
