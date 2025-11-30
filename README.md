@@ -33,12 +33,19 @@ The goal is to support **government agencies, environmental bodies, health depar
 ```
 
 ├── EDA__DATA.ipynb                       # Full EDA: cleaning, merging, visualizations
+
 ├── EDA_Report_Diseases.html              # Auto-generated interactive EDA report
+
 ├── NE_WaterQuality_with_Diseases.csv     # Merged water-quality + diseases dataset
+
 ├── NE_WaterQuality_with_RiskLevels.csv   # Dataset with computed risk levels
+
 ├── SIH_MODEL_TRAINED.ipynb               # ML model training notebook
+
 ├── random_forest_model.pkl               # Trained Random Forest model
+
 ├── final_nhs-wq_pre_2023_compressed.xlsx # Source dataset
+
 └── README.md                             # Documentation (this file)
 
 ````
