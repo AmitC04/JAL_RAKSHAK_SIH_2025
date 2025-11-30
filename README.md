@@ -45,7 +45,7 @@ The goal is to support **government agencies, environmental bodies, health depar
 
 └── README.md                             # Documentation (this file)
 
-````
+
 
 ---
 
@@ -77,7 +77,7 @@ The goal is to support **government agencies, environmental bodies, health depar
 - Jupyter Notebook  
 
 ### 🔹 Installation  
-```bash
+
 # Clone the repository
 git clone https://github.com/AmitC04/JAL_RAKSHAK_SIH_2025.git
 cd JAL_RAKSHAK_SIH_2025
@@ -89,7 +89,6 @@ source venv/bin/activate        # Mac/Linux
 
 # Install dependencies (if requirements.txt is added later)
 pip install -r requirements.txt
-````
 
 ---
 
@@ -198,13 +197,4 @@ Feel free to use, modify, and distribute with attribution.
 
 If this project helped you or you found it interesting, please **star ⭐ the repository** on GitHub!
 
-```
-
----
-
-If you want, I can also generate:  
-✅ `requirements.txt`  
-✅ A professional banner image for your GitHub  
-✅ A better folder structure for SIH submission  
-Just tell me!
 ```
