@@ -196,5 +196,4 @@ Feel free to use, modify, and distribute with attribution.
 ## ⭐ Support
 
 If this project helped you or you found it interesting, please **star ⭐ the repository** on GitHub!
-
 ```
