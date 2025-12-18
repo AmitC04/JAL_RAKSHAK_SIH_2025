@@ -1,8 +1,4 @@
-# SIH-2025
-MODELED TRAINED
 
-
-https://nbviewer.org/github/AmitC04/SIH-2025/blob/main/EDA__DATA.ipynb
 
 
 
@@ -383,6 +379,11 @@ xdg-open EDA_Report_Diseases.html
 4. **Public Awareness**: Launch health campaigns in 8 identified hotspots
 
 ---
+
+#### SIH-2025
+MODELED TRAINED
+https://nbviewer.org/github/AmitC04/SIH-2025/blob/main/EDA__DATA.ipynb
+
 
 ## 🗺️ Roadmap
 
