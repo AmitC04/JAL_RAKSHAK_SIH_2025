@@ -380,10 +380,10 @@ xdg-open EDA_Report_Diseases.html
 
 ---
 
-#### SIH-2025
+---
 MODELED TRAINED
 https://nbviewer.org/github/AmitC04/SIH-2025/blob/main/EDA__DATA.ipynb
-
+---
 
 ## 🗺️ Roadmap
 
@@ -442,11 +442,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Contact
 
-**Amit Choudhary**
+**Amit Chauhan**
 
 - GitHub: [@AmitC04](https://github.com/AmitC04)
-- Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: amitc220404@gmail.com
 
 **Project Link**: [https://github.com/AmitC04/JAL_RAKSHAK_SIH_2025](https://github.com/AmitC04/JAL_RAKSHAK_SIH_2025)
 
